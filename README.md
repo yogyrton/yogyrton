@@ -73,9 +73,9 @@ pariusov.93@gmail.com
 
 ## УВЛЕЧЕНИЯ
 
-- :pizza: eat
-- :soccer: football
-- and coding :computer:
+- :pizza: еда
+- :soccer: футбол
+- и кодинг :computer:
 
 
 [Telegram]: https://t.me/Yogyrton
