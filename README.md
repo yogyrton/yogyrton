@@ -53,9 +53,9 @@
 
 ## КОНТАКТЫ
 
-[Телеграм] [Telegram]
-[GitHub] [GitHub]
-[LinkedIn] [LinkedIn]
+[Телеграм][Telegram]
+[Git] [GitHub]
+[Linkedin] [LinkedIn]
 
 Почта:
 
