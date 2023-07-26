@@ -1,12 +1,11 @@
 # PARUSOV EGOR
 
+
 ## *STRONG JUNIOR PHP DEVELOPER*
 
----
 
 ### В поисках вакансии junior php dev, являюсь специалистом с полугодичным коммерческим опытом работы на фреймворке Laravel, за плечами несколько готовых проектов с нуля + правки уже существующих…возможно практики у меня недостаточно, однако моей целеустремленности, работоспособности и желанию учиться новому позавидуют многие :sunglasses:
 
----
 
 ## КНИГИ
 
@@ -15,7 +14,6 @@
 - `Laravel 8 быстрая разработка веб-сайтов` В. Дронов
 - `Laravel 9 быстрая разработка веб-сайтов` В. Дронов
 
----
 
 ## КУРСЫ
 
@@ -25,7 +23,8 @@
 - `PHP и MySQL с нуля до гуру` М. Русаков
 - `Laravel от А до Я` М. Русаков
 
----
+
+## НАВЫКИ
 
 - ### `PHP` *(уверенно)* <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="30">
 - ### `ООП` *(уверенно)* <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="30">
@@ -38,7 +37,6 @@
 - ### `HTML` *(базово)* <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30">
 - ### `CSS` *(базово)* <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30">
 
----
 
 ## ПРОЕКТЫ
 
@@ -52,15 +50,6 @@
 - [Обрезки](http://obrezki.by) последний проект командный, практически завершен был, с админкой и личным кабинетом, но проект приостановили, код продемонстрировать не могу, именно под этот проект было подписано неразглашение
 -  остальное это фикс багов в уже действующих проектах
 
----
-
-I like
-
-- :pizza: eat
-- :soccer: football
-- and coding :computer:
-
----
 
 ## КОНТАКТЫ
 
@@ -79,6 +68,15 @@ pariusov.93@gmail.com
 ```bash
 +375295828738
 ```
+
+---
+
+## УВЛЕЧЕНИЯ
+
+- :pizza: eat
+- :soccer: football
+- and coding :computer:
+
 
 [Telegram]: https://t.me/Yogyrton
 
