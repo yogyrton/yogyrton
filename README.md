@@ -60,7 +60,7 @@
 Почта:
 
 ```bash
-pariusov.93@gmail.com
+parusov.93@gmail.com
 ```
 
 Телефон:
